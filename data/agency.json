@@ -1,0 +1,84 @@
+{
+    "agency": [
+        {
+            "id": 1,
+            "name": "SM Entertainment"
+        },
+        {
+            "id": 2,
+            "name": "YG Entertaiment"
+        },
+        {
+            "id": 3,
+            "name": "JYP Entertainment"
+        },
+        {
+            "id": 4,
+            "name": "Big Hit Entertainment"
+        },
+        {
+            "id": 5,
+            "name": "FNC Entertaiment"
+        },
+        {
+            "id": 6,
+            "name": "Woollim Entertaiment"
+        },
+        {
+            "id": 7,
+            "name": "CUBE Entertaiment"
+        },
+        {
+            "id": 7,
+            "name": "Starship Entertaiment"
+        },
+        {
+            "id": 7,
+            "name": "WM Entertaiment"
+        },
+        {
+            "id": 8,
+            "name": "PLEDIS Entertaiment"
+        },
+        {
+            "id": 9,
+            "name": "Dream T Entertaiment"
+        },
+        {
+            "id": 10,
+            "name": "Source Music"
+        },
+        {
+            "id": 11,
+            "name": "RBW Entertainment"
+        },
+        {
+            "id": 12,
+            "name": "JELLYFISH Entertainment"
+        },
+        {
+            "id": 13,
+            "name": "maroo Entertainment"
+        },
+        {
+            "id": 14,
+            "name": "TOP MEDIA"
+        },
+        {
+            "id": 15,
+            "name": "DOUBLE KICK entertainment"
+        },
+        {
+            "id": 16,
+            "name": "BRANDNEW MUSIC"
+        },
+        {
+            "id": 17,
+            "name": "DSP Media"
+        },
+        {
+            "id": 18,
+            "name": "YUE HUA Entertainment"
+        }
+    ]
+}

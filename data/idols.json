@@ -1,0 +1,40 @@
+{
+    "idols": [
+        {
+            "id": 1,
+            "agency": 1,
+            "name": "SUPER JUNIOR",
+            "gender": "Male",
+            "debut": "2005",
+            "retire": "",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "agency": 1,
+            "name": "f(x)",
+            "gender": "Female",
+            "debut": "2009",
+            "retire": "",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "agency": 2,
+            "name": "BIGBANG",
+            "gender": "Male",
+            "debut": "2006",
+            "retire": "",
+            "description": ""
+        },
+        {
+            "id": 4,
+            "agency": 2,
+            "name": "BLACKPINK",
+            "gender": "Female",
+            "debut": "2016",
+            "retire": "",
+            "description": ""
+        }
+    ]
+}
