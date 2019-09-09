@@ -1,0 +1,31 @@
+{
+  "name": "kpop-activity-timeline",
+  "version": "1.0.0",
+  "description": "事務所別K-POPアイドルグループの活動期間をタイムラインで表示",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/to4king/kpop-activity-timeline.git"
+  },
+  "keywords": [
+    "jquery",
+    "handlebars",
+    "webpack"
+  ],
+  "author": "to4king <to4king@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/to4king/kpop-activity-timeline/issues"
+  },
+  "homepage": "https://github.com/to4king/kpop-activity-timeline#readme",
+  "dependencies": {
+    "handlebars": "^4.2.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3"
+  }
+}
