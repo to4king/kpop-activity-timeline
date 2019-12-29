@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/to4king/kpop-activity-timeline#readme",
   "dependencies": {
-    "handlebars": "^4.2.0",
+    "handlebars": "^4.3.0",
     "jquery": "^3.4.1"
   },
   "devDependencies": {
