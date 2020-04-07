@@ -19,7 +19,9 @@
     "url": "https://github.com/to4king/kpop-activity-timeline/issues"
   },
   "homepage": "https://github.com/to4king/kpop-activity-timeline#readme",
-  "dependencies": {},
+  "dependencies": {
+    "minimist": ">=1.2.3"
+  },
   "devDependencies": {
     "webpack": "^4.39.3"
   }
