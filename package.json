@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/to4king/kpop-activity-timeline#readme",
   "dependencies": {
-    "minimist": ">=1.2.3"
+    "minimist": ">=1.2.3",
+    "kind-of": ">=6.0.3"
   },
   "devDependencies": {
     "webpack": "^4.39.3"
